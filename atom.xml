@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://D1test.github.io</id>
+    <title>Gridea</title>
+    <updated>2025-11-13T05:44:53.211Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://D1test.github.io"/>
+    <link rel="self" href="https://D1test.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://D1test.github.io/images/avatar.png</logo>
+    <icon>https://D1test.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第三篇博客]]></title>
+        <id>https://D1test.github.io/post/di-san-pian-bo-ke/</id>
+        <link href="https://D1test.github.io/post/di-san-pian-bo-ke/">
+        </link>
+        <updated>2025-11-13T05:33:35.000Z</updated>
+        <content type="html"><![CDATA[<p>这是第三篇博客，今天要开始写代码啦😃😃😃😃😃</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二篇博客]]></title>
+        <id>https://D1test.github.io/post/di-er-pian-bo-ke/</id>
+        <link href="https://D1test.github.io/post/di-er-pian-bo-ke/">
+        </link>
+        <updated>2025-11-12T13:05:02.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我的第二篇博客，我会马上删除我的第一篇博客🤓😎</p>
+]]></content>
+    </entry>
+</feed>
